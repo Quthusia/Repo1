@@ -19,4 +19,4 @@ Capture Input: Live video feed from traffic signal cameras.
 Detect Vehicles: Use object detection to count vehicles per lane.
 Calculate Signal Time: More vehicles = longer green light time.
 Control Signal: Send control signal to traffic lights accordingly.
-Repeat in Real-Time.
+Repeat in Real-Time
